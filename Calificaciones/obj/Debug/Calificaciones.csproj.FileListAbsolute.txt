@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Admin\Desktop\Calificaciones\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
